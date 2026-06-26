@@ -11,7 +11,7 @@ Authors: Mark Rhee, Jamie Simon, Dhruva Karkada.
 - [fig3.ipynb](fig3.ipynb) - Planted low-rank recovery and subspace alignment across the under-, exactly-, and over-parameterized regimes ($d/n = 0.25, 1.0, 4.0$)
 - [fig4.ipynb](fig4.ipynb) - Spiked learning rate schedule in the exactly-parameterized setting ($n = d = 25$) with orthogonal initialization at scale $\alpha = 10^{-4}$: singular-value trajectories, loss, and learning rate schedule over 16 iterations, demonstrating two-step alignment followed by geometric annealing to convergence
 
-Cached experiment outputs (`*.pkl`) are included so the plotting cells can be re-run without repeating the training sweeps. Figures are written to [plots/](plots).
+Figures are written to [plots/](plots).
 
 ## Requirements
 
